@@ -1,0 +1,5 @@
+this is a prjocet as a homework
+there is two file in the folder one of them is sms_spam.csv which contains 5574 sms that some of them are spam and some others are ham .
+they have labled ( for more detail read :http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/ )
+it is spam detection project with Naive Bayes Algorithm .
+works with all versions of python !!
